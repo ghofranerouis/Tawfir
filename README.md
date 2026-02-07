@@ -26,11 +26,9 @@ The system follows a sophisticated data pipeline:
 - **Machine Learning:** Scikit-learn (RandomForestRegressor)
 - **Data Science:** Pandas, NumPy
 - **Visualizations:** Streamlit Native Charts
-  
 
-🔗 Live Prototype:  
+## 🔗 Live Prototype:  
 [RG Library Prototype](https://rgtawfir.streamlit.app/)
-
 
 ## 📂 Project Structure
 ```text
